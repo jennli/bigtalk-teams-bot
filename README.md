@@ -16,7 +16,7 @@ This sample **requires** prerequisites in order to run.
 
 ## Testing the bot in Teams
 - go to https://teams.microsoft.com/l/chat/0/0?users=28:50b1c0e2-bd26-41c1-be25-a7f5c02c737b
-- enter "bigtalk" in the chat and it should return a bigtalk game
+- enter "bigtalk" in the chat and it should return a bigtalk question
 
 ## Testing the bot using Bot Framework Emulator
 
